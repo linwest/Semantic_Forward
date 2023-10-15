@@ -381,6 +381,7 @@ for e in range(epoch_len):
         for rho in [0.05, 0.15, 0.35, 0]:
             for snr1 in range(-5, 10):
                 print(f'===================== rho={rho:g}, snr={snr1:d} ====================')
+                os.makedirs('images/', exist_ok=True)
                 fname = f'images/snr{snr1:d}-rho{rho:g}.csv'
                 if not os.path.exists(fname):
                     with open(fname, mode='a', newline='') as file:
