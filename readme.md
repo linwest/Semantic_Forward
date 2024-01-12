@@ -1,8 +1,8 @@
 # Semantic-Forward Relaying: A Novel Framework Towards 6G Cooperative Communications
-Example codes for the paper “Semantic-Forward Relaying: A Novel Framework Towards 6G Cooperative Communications”.
+Example codes for the paper “Semantic-Forward Relaying: A Novel Framework Towards 6G Cooperative Communications”, which has been accepted for publication in IEEE Communications Letters with DOI: 10.1109/LCOMM.2024.3352916.
 
 arXiv: https://arxiv.org/abs/2310.07987
-
+IEEE Xplore: https://ieeexplore.ieee.org/document/10388241
 
 ## Instruction
 
@@ -29,11 +29,12 @@ This framework can be adaptive to other semantic neural network by revising the 
 ## Citation
 BibTeX infomation:
 ```
-@article{lin2023SF,
-  title={Semantic-Forward Relaying: {A} Novel Framework Towards 6G Cooperative Communications},
-  author={Wensheng Lin and Yuna Yan and Lixin Li and Zhu Han and Tad Matsumoto},
-  journal={arXiv preprint arXiv:2310.07987},
-  year={2023}
+@Article{lin2023SF,
+  author  = {Wensheng Lin and Yuna Yan and Lixin Li and Zhu Han and Tad Matsumoto},
+  journal = {IEEE Communications Letters},
+  title   = {Semantic-Forward Relaying: {A} Novel Framework Towards 6{G} Cooperative Communications},
+  year    = {2024},
+  doi     = {10.1109/LCOMM.2024.3352916},
 }
 ```
 
